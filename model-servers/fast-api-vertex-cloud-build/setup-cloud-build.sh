@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # ============================================================
 # Cloud Build Setup Script
 # Run this once to prepare your GCP project for CI/CD.
